@@ -9,7 +9,7 @@ env:
   docker_repository: "docker.edu-sharing.com"
   path_prefix: "/projects/oeh-redaktion/edusharing-projects-oeh-redaktion-yovisto-"
   image_tag: "dev"
-  image_name: "language_detection"
+  image_name: "classification"
 
 
 jobs:
